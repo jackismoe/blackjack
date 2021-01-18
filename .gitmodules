@@ -1,0 +1,7 @@
+[submodule "blackjack-frontend"]
+	path = blackjack-frontend
+	url = git@github.com:jackismoe/blackjack-frontend.git
+
+[submodule "blackjack-backend"]
+	path = blackjack-backend
+	url = git@github.com:jackismoe/blackjack-backend.git
